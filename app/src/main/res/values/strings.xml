@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First</string>
+    <string name="hint">Enter Task</string>
+    <string name="heading">Welcome</string>
+    <string name="taskButton">Add</string>
+    <string name="deleteButton">Delete Task</string>
+</resources>
